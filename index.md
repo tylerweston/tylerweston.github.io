@@ -6,7 +6,13 @@ Eventually I will have a more fully formed tutorial in-game, but for now:
 - Click and drag a light source around to move it
 - Click to draw/erase walls from the game board
 - You get more points the less walls you use, so try to be minimal when solving the puzzles
-- Keyboard shortcuts: R, G, B keys activate/deactivate the corresponding light, space goes to the next level when all the detectors are activate, ctrl-z to undo your last move, or ctrl-y to redo your last move. 
+- Keyboard shortcuts: R, G, B keys activate/deactivate the corresponding light, space goes to the next level when all the detectors are activate, ctrl-z to undo your last move, or ctrl-y to redo your last move.  
+  
+The code for the game is available [here](https://github.com/tylerweston/spectro) 
+
+# [The Aleatoric Learning Channel](https://www.youtube.com/channel/UC2wcr8bK-dM88mLCOqik9ow)  
+Algorithmically generated semi-educational videos. An exploration of the intersection of learning, glitch art, and chance.  
+The code for generating the videos is available [here](https://github.com/tylerweston/talc)
 
 # Essays  
 [Information Generation as a Teleological Explanation of Consciousness: Or, Of Quarks and Qualia](https://htmlpreview.github.io/?https://tylerweston.github.io/COG402.html)  
