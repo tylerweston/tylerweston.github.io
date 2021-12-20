@@ -38,6 +38,16 @@ Predictive coding, the idea that our cognitive processes are designed to minimiz
 
 
 # Other links
+[GitHub](https://github.com/tylerweston)
+
 [Leetcode Profile](https://leetcode.com/tylerjohnweston/)  
 
+[LinkedIn](https://www.linkedin.com/in/tylerjweston/)
+
 ![Project Euler Results](https://projecteuler.net/profile/tylerweston.png)
+
+
+
+# Contact Me
+email me at: tyler john weston at gmail (minus the spaces and plus the dot com)  
+
