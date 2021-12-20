@@ -35,3 +35,9 @@ Graffiti, the act of creating anonymous, public messages, has followed humanity 
 For the course Introduction to Cognitive Science, March 2017.  
 Abstract:  
 Predictive coding, the idea that our cognitive processes are designed to minimize energy use by only encoding the difference in top-down prediction generated through learned representation and bottom-up information gathered from our senses, is one of the most fruitful new integrated theories of cognition. Another recent discovery is that glial cells, previously relegated to a strictly structural role in the brain, play a far more significant role in cognitive processes with their abilities to control synaptic strength, alter the architecture of the brain, and control the speed of transmission of information. This leads to a key role for glial cells in memory, learning, and many other processes that are vital to predictive coding. By looking at how glial cells offer support for the machinery of predictive coding, and current models of artificial intelligence, such as neural networks, I offer a rough framework for future research into integrating predictive coding and neuronal-glial models of cognition.
+
+
+# Other links
+[Leetcode Profile](https://leetcode.com/tylerjohnweston/)  
+
+![Project Euler Results](https://projecteuler.net/profile/tylerweston.png)
