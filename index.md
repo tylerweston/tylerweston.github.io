@@ -44,7 +44,7 @@ Predictive coding, the idea that our cognitive processes are designed to minimiz
 
 [LinkedIn](https://www.linkedin.com/in/tylerjweston/)
 
-![Project Euler Results](https://projecteuler.net/profile/tylerweston.png)
+![Project Euler Results](https://projecteuler.net/profile/tylerjohnweston.png)
 
 
 
