@@ -1,6 +1,6 @@
 # [spectro](https://tylerweston.github.io/spectro/)
-This is a work in progress game to learn javascript. It is written using the p5.js library.  
-Eventually I will have a more fully formed tutorial in-game, but for now:
+Light and shadow game.  
+
 - The point of a level is to shine the correct color of light on each of the detectors (The empty circles, they will fill when they are correct)
 - Click on a light source to activate/deactivate it
 - Click and drag a light source around to move it
