@@ -49,5 +49,4 @@ Predictive coding, the idea that our cognitive processes are designed to minimiz
 
 
 # Contact Me
-email me at: tyler john weston at gmail (minus the spaces and plus the dot com)  
-
+<a href="mailto:tylerjohnweston@gmail.com">email me here</a>
