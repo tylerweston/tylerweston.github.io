@@ -1,6 +1,10 @@
+---
 layout: page
 title: "essays"
 permalink: /essays/
+---
+
+# Essays
 
 [Information Generation as a Teleological Explanation of Consciousness: Or, Of Quarks and Qualia](https://htmlpreview.github.io/?https://tylerweston.github.io/COG402.html)  
 For the course Seminar in Cognitive Science, April 2020  
