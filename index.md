@@ -26,7 +26,7 @@ The code for generating the videos is available [here](https://github.com/tylerw
 
 ![Project Euler Results](https://projecteuler.net/profile/tylerjohnweston.png)
 
-
+[My record collection on discogs](https://www.discogs.com/user/tylerweston/collection)
 
 # Contact Me
 <a href="mailto:tylerjohnweston@gmail.com">email me here</a>
