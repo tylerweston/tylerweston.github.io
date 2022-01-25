@@ -1,3 +1,5 @@
+# int main(int argc, char** argv) {
+
 # [spectro](https://tylerweston.github.io/spectro/)
 Light and shadow game.  
 
@@ -30,3 +32,5 @@ The code for generating the videos is available [here](https://github.com/tylerw
 
 # Contact Me
 <a href="mailto:tylerjohnweston@gmail.com">email me here</a>
+
+# }
