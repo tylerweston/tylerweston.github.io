@@ -12,6 +12,16 @@ Light and shadow game.
   
 The code for the game is available [here](https://github.com/tylerweston/spectro) 
 
+# [hemhaw](https://tylerweston.github.io/hemhaw/)
+A Boggle/Scrabble/Sliding Puzzle mashup  
+
+- Move letters around and make words from tiles that touch each other.  
+- The tiles are scored based on Scrabble points and the Scrabble dictionary, with one bonus point given per letter used.  
+- Stars are wildcards, use them as any letter. They aren't worth points, but they count towards word length.  
+- You gain half a second for each point you get. How long can you play for?  
+  
+The code for the game is available [here](https://github.com/tylerweston/hemhaw) 
+
 # [The Aleatoric Learning Channel](https://www.youtube.com/channel/UC2wcr8bK-dM88mLCOqik9ow)  
 Algorithmically generated semi-educational videos. An exploration of the intersection of learning, glitch art, and chance.  
 The code for generating the videos is available [here](https://github.com/tylerweston/talc)
