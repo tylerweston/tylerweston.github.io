@@ -17,10 +17,12 @@ A Boggle/Scrabble/Sliding Puzzle mashup
 
 - Move letters around and make words from tiles that touch each other.  
 - The tiles are scored based on Scrabble points and the Scrabble dictionary, with one bonus point given per letter used.  
-- Stars are wildcards, use them as any letter. They aren't worth points, but they count towards word length.  
-- You gain half a second for each point you get. How long can you play for?  
-- There will be a new palette each time you play, if you don't like the current one click the top left of the window.
-- Click and drag the mouse to select words. Release mouse button to select your word. If you want to deselect a word, drag you mouse off the grid.    
+- Blank spaces are wildcards, use them as any letter. They aren't worth points, but they count towards word length.  
+- You gain time for each point you score, with higher difficulties giving you less time per points.
+- You can change the game palette by clicking the question mark in the top left to randomly select a new palette. This will be saved between plays.
+- Click and drag the mouse to select words. Release mouse button to select your word. If you want to deselect a word, drag you mouse off the grid.  
+- There is a leveling system that saves between games. Getting points will level you up, and as you gain levels it will take more points to move up to the next level.
+- You can view your stats by clicking and holding down on your username at the top of the game at any time. Note that anything played in practice mode DOES NOT COUNT towards any of these totals. Only score, time, and words played in easy, medium, hard, or blitz mode count towawrds these.  
   
 The code for the game is available [here](https://github.com/tylerweston/hemhaw) 
 
