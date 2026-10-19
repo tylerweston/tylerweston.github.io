@@ -1,5 +1,17 @@
 # main
 
+# [spectro2](https://tylerweston.github.io/spectro2/)
+Light and shadow game 2.  
+
+- The point of a level is to shine the correct color of light on each of the detectors (The empty circles, they will fill when they are correct)
+- Click on a light source to activate/deactivate it
+- Click and drag a light source around to move it
+- Click to draw/erase walls from the game board
+- You get more points the less walls you use, so try to be minimal when solving the puzzles
+- Keyboard shortcuts: R, G, B keys activate/deactivate the corresponding light, space goes to the next level when all the detectors are activate, ctrl-z to undo your last move, or ctrl-y to redo your last move.  
+  
+The code for the game is available [here](https://github.com/tylerweston/spectro2) 
+
 # [spectro](https://tylerweston.github.io/spectro/)
 Light and shadow game.  
 
